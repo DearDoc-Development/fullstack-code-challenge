@@ -3,7 +3,7 @@ This repo contains the description of a code challenge for the position of Fulls
 
 ## The challenge
 
-![Pokeball](assets/pokeball.png)
+![Pokeball](/assets/pokeball.png)
 
 You are asked to create a Pokedex, or at least a web application that will recreate one. The app should list Pokemons along with it's picture and details, search a pokemon and add one to favorites.
 
