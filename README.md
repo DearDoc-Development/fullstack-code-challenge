@@ -26,6 +26,7 @@ Features:
 - You may not need an authorization system, you can create a random uuid in the client and just authenticate the user with it
 - Use the tools you are most comfortable with. We want to see your best work
 - Tests are not required, but are a plus
+- Get all the inspiration you want from [the Pokedex](https://www.pokemon.com/us/pokedex)
 
 If you have any questions, let us know. We are here to help you. Good luck!
 
