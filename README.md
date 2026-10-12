@@ -28,6 +28,26 @@ Features:
 - Tests are not required, but are a plus
 - Get all the inspiration you want from [the Pokedex](https://www.pokemon.com/us/pokedex)
 
+## AI/Agent disclosure
+
+Please include an `AI_USAGE.md` (or a README section) in your repository covering:
+
+- **AI tools/agents used**: name and version of each assistant/agent (e.g. Copilot, ChatGPT, Claude, Cursor), and for what part of the work (scaffolding, tests, debugging, docs). Write "none" if you used none.
+- **Prompts**: the main prompts you used, verbatim or lightly summarized, and how you iterated on them.
+- **Technical decisions**: the stack, architecture and trade-offs you chose (framework, database, caching of PokeAPI, API design, state management) and why. Say which decisions were yours and which were suggested by an AI.
+- **Verification**: how you reviewed and tested AI-generated code, and anything you rejected or rewrote.
+
+Using AI is allowed; we care about transparency and about you understanding and being able to defend every line you submit.
+
+### Other optional items we find interesting
+
+- Known limitations and what you would do next with more time
+- Time spent and how it was split
+- Issues you hit and how you debugged them
+- Scalability notes (pagination, caching, rate limiting of the PokeAPI wrapper)
+- Accessibility and responsive design considerations
+- Screenshots or a short demo (GIF/video)
+
 If you have any questions, let us know. We are here to help you. Good luck!
 
 
